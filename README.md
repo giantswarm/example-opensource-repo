@@ -1,5 +1,7 @@
 # example-opensource-repo
 
+[![Build Status](https://api.travis-ci.org/giantswarm/example-opensource-repo.svg)](https://travis-ci.org/giantswarm/example-opensource-repo)
+
 This is a template repository for Giant Swarm Open Source projects
 
 ## How to build
