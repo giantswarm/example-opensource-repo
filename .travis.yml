@@ -5,4 +5,4 @@ go:
   - tip
 install:
   - go get github.com/spf13/viper
-script: go build main.go
+#script: go build main.go
