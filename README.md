@@ -12,9 +12,11 @@ Mention if there's some tools (internal or external) that it works especially we
 
 ## Getting Project
 
-- Install
-- Docker
-- Build
+Three ways to get the project:
+
+- Install/Download a release
+- Docker image for a release (autobuild)
+- Build (two options: local or in docker)
 
 ## Running PROJECT
 
