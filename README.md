@@ -8,22 +8,6 @@ Short description what it is and for what you can use it and why.
 
 Mention if there's some tools (internal or external) that it works especially well together with.
 
-## How to build
-
-### Dependencies
-
-- [github.com/spf13/viper](https://github.com/spf13/viper)
-
-### Building the standard way
-
-```
-go get github.com/spf13/viper
-go build main.go
-```
-
-### Cross-compiling in a container
-
-Here goes the documentation on compiling for different architectures from inside a linux Docker container.
 ## Prerequisites
 
 ## Getting Project
@@ -33,6 +17,23 @@ Three ways to get the project:
 - Install/Download a release
 - Docker image for a release (autobuild)
 - Build (two options: local or in docker)
+
+### How to build
+
+#### Dependencies
+
+- [github.com/spf13/viper](https://github.com/spf13/viper)
+
+#### Building the standard way
+
+```
+go get github.com/spf13/viper
+go build main.go
+```
+
+#### Cross-compiling in a container
+
+Here goes the documentation on compiling for different architectures from inside a Docker container.
 
 ## Running PROJECT
 
