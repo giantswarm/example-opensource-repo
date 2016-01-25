@@ -41,7 +41,9 @@ This is a rough outline of what a contributor's workflow looks like:
 - Make sure your commit messages are in the proper format (see below).
 - Push your changes to a topic branch in your fork of the repository.
 - Submit a pull request to giantswarm/PROJECT.
+- Adding unit tests will greatly improve the chance for getting a quick review and your PR accepted.
 - Your PR must receive a LGTM from one maintainer found in the MAINTAINERS file.
+- Before merging your PR be sure to squash all commits into one.
 
 Thanks for your contributions!
 
