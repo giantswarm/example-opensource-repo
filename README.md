@@ -1,6 +1,8 @@
 # PROJECT
 
-[![Build Status](https://api.travis-ci.org/giantswarm/example-opensource-repo.svg)](https://travis-ci.org/giantswarm/example-opensource-repo) - DockerHub Badge
+[![Build Status](https://api.travis-ci.org/giantswarm/example-opensource-repo.svg)](https://travis-ci.org/giantswarm/example-opensource-repo)
+[![IRC Channel](https://img.shields.io/badge/irc-%23giantswarm-lightgrey.svg)](https://kiwiirc.com/client/irc.freenode.net/#giantswarm)
+- DockerHub Badge
 
 {LOGO}
 
