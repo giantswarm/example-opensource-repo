@@ -1,7 +1,6 @@
 # PROJECT
 
 [![Build Status](https://api.travis-ci.org/giantswarm/example-opensource-repo.svg)](https://travis-ci.org/giantswarm/example-opensource-repo) [![](https://godoc.org/github.com/giantswarm/example-opensource-repo?status.svg)](http://godoc.org/github.com/giantswarm/example-opensource-repo) [![](https://img.shields.io/docker/pulls/giantswarm/example-opensource-repo.svg)](http://hub.docker.com/giantswarm/example-opensource-repo) [![IRC Channel](https://img.shields.io/badge/irc-%23giantswarm-blue.svg)](https://kiwiirc.com/client/irc.freenode.net/#giantswarm)
-- DockerHub Badge
 
 {LOGO}
 
