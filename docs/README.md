@@ -2,7 +2,7 @@
 
 We provide product-specific documentation inside the repository of the product, using a top-level directory named `docs`.
 
-The content within this directory is intended primarily for reading on the `giantswarm.io` website. To enable useful rendering in that context, please adhere to the following guidelines.
+The content within this directory is intended primarily for reading on the `giantswarm.io` website, while also being accessible directly on `github.com`. To enable useful rendering in both contexts, please adhere to the following guidelines.
 
 ## Markdown content
 
@@ -10,9 +10,9 @@ Documentation content is in [Markdown](https://daringfireball.net/projects/markd
 
 ## Index files
 
-We make use of the fact that when entering a directory of a repository, GitHub automatically renders the `README.md` file content if available.
+We make use of the fact that when entering a directory of a repository, GitHub automatically renders the `README.md` file content if available. To allow for convenient reading/browsing on github.com, it is recommended to provide a `README.md` file with a table of contents for everything within the directory.
 
-If no `README.md` file is available in the `docs` folder or any subfolder, a table of contents page is automatically generated for browsing that folder within the `giantswarm.io` website. To provide a custom table of contents, provide a `README.md` file and set links to all sub-pages.
+On `giantswarm.io`, if no `README.md` file is available in the `docs` folder or any subfolder, a table of contents page is automatically generated in it's place for browsing that folder.
 
 ## Linking between documentation pages
 
