@@ -51,9 +51,9 @@ When rendering fenced code blocks, syntax highlighting is applied automatically.
 Especially shell commands and their output regularly lead to bad syntax highlighting results. For that sort of code, syntax highlighting should therefore be disabled completely. There is a helper `nohighlight` that can be added to the according code block. Example:
 
 ```nohighlight
-\`\`\`nohighlight
+\```nohighlight
 $ some shell code
-\`\`\`
+\```
 ```
 
 To indicate a specific language used, these helpers are at your disposal: `dockerfile`, `go`, `java`, `javascript`, `json`, `php`, `python`, `ruby`, `yaml`.
