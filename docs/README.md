@@ -6,7 +6,7 @@ The content within this directory is intended primarily for reading on the `gian
 
 ## Markdown content
 
-Documentation content is in Markdown format. Github-flavored Markdown extensions such as fenced code blocks and tables might be applied.
+Documentation content is in [Markdown](https://daringfireball.net/projects/markdown/syntax) format. Github-flavored Markdown extensions such as fenced code blocks and tables might be applied.
 
 ## Index files
 
@@ -33,7 +33,7 @@ In order to link to a page in the parent directory, accordingly use this relativ
 To link to the index page of a sub-directory of the current page, directly reference the `README.md` file:
 
 ```markdown
-... more about the [Configuration](../configuration/README.md) of ...
+... more about the [Configuration](configuration/README.md) of ...
 ```
 
 ## Nested directories
@@ -53,7 +53,7 @@ Especially shell commands and their output regularly lead to bad syntax highligh
 ```nohighlight
 ```nohighlight
 $ some shell code
-\```
+\`\`\`
 ```
 
 To indicate a specific language used, these helpers are at your disposal: `dockerfile`, `go`, `java`, `javascript`, `json`, `php`, `python`, `ruby`, `yaml`.
