@@ -53,7 +53,7 @@ Especially shell commands and their output regularly lead to bad syntax highligh
 ```nohighlight
 ```nohighlight
 $ some shell code
-\`\`\`
+...
 ```
 
 To indicate a specific language used, these helpers are at your disposal: `dockerfile`, `go`, `java`, `javascript`, `json`, `php`, `python`, `ruby`, `yaml`.
