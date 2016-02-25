@@ -12,11 +12,11 @@ Mention if there's some tools (internal or external) that it works especially we
 
 ## Getting Project
 
-Three ways to get the project:
+Download the latest release: https://github.com/giantswarm/example-opensource-repo/releases/latest
 
-- Install/Download a release
-- Docker image for a release (autobuild)
-- Build (two options: local or in docker)
+Clone the git repository: https://github.com/giantswarm/example-opensource-repo.git
+
+Download the latest docker image from here: https://hub.docker.com/r/giantswarm/example-opensource-repo/
 
 ### How to build
 
