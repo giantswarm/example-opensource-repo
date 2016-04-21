@@ -14,6 +14,15 @@ We make use of the fact that when entering a directory of a repository, GitHub a
 
 On `giantswarm.io`, if no `README.md` file is available in the `docs` folder or any subfolder, a table of contents page is automatically generated in it's place for browsing that folder.
 
+If the project has only one page of documentation, please make it the `README.md` file.
+
+## File and directory naming
+
+- Markdown files must have the `.md` ending.
+- File names should be all lowercase, with exception of the `README.md` file
+- Please use only [a-z0-9] and the dash (-) for file naming.
+- File/directory names must not contain whitespace
+
 ## Linking between documentation pages
 
 Always use *relative links* to reference pages within the documentation of the same repository. This guarantees that the hyperlinks also work in the `giantswarm.io` website context.
