@@ -22,13 +22,14 @@ Download the latest docker image from here: https://hub.docker.com/r/giantswarm/
 
 #### Dependencies
 
-- [github.com/spf13/viper](https://github.com/spf13/viper)
+Dependencies are managed using [`glide`](https://github.com/Masterminds/glide) and contained in the `vendor` directory. See `glide.yaml` for a list of libraries this project directly depends on and `glide.lock` for complete information on all external libraries and their versions used.
+
+**Note:** The `vendor` directory is **flattened**. Always use the `--strip-vendor` (or `-v`) flag when working with `glide`.
 
 #### Building the standard way
 
-```
-go get github.com/spf13/viper
-go build main.go
+```nohighlight
+go build
 ```
 
 #### Cross-compiling in a container
