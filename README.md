@@ -58,6 +58,8 @@ Links to godoc
 
 See [.github/CONTRIBUTING.md](/giantswarm/example-opensource-repo/blob/master/.github/CONTRIBUTING.md) for details on submitting patches, the contribution workflow as well as reporting bugs.
 
+For security issues, please see [the security policy](SECURITY.md).
+
 ## License
 
 PROJECT is under the Apache 2.0 license. See the [LICENSE](/giantswarm/example-opensource-repo/blob/master/LICENSE) file for details.
