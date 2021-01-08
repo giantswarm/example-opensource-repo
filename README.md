@@ -55,7 +55,7 @@ Links to godoc
 
 ## Contributing & Reporting Bugs
 
-See [.github/CONTRIBUTING.md](/giantswarm/example-opensource-repo/blob/master/.github/CONTRIBUTING.md) for details on submitting patches, the contribution workflow as well as reporting bugs.
+See [.github/CONTRIBUTING.md](/.github/CONTRIBUTING.md) for details on submitting patches, the contribution workflow as well as reporting bugs.
 
 For security issues, please see [the security policy](SECURITY.md).
 
